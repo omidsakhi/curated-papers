@@ -99,6 +99,7 @@ Thanks for being a part of this amazing community and keep crushing it!
 | 2020 | 10 | [Denoising Diffusion Implicit Models (DDIM)](https://arxiv.org/abs/2010.02502) | [GitHub](https://github.com/ermongroup/ddim) |
 | 2020 | 10 | [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (ViT)](https://arxiv.org/abs/2010.11929) | [On-HF](https://huggingface.co/docs/transformers/model_doc/vit) |
 | 2020 | 11 | [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456) | [GitHub](https://github.com/yang-song/score_sde) |
+| 2021 | 01 | [How to Train Your Energy-Based Models](https://arxiv.org/abs/2101.03288) ||
 | 2021 | 02 | [Learning Transferable Visual Models From Natural Language Supervision (CLIP)](https://arxiv.org/abs/2103.00020) ||
 | 2021 | 05 | [Diffusion Models Beat GANs on Image Synthesis (Guided Diffusion)](https://arxiv.org/abs/2105.05233) | [GitHub](https://github.com/openai/guided-diffusion) |
 | 2021 | 06 | [Low-Rank Adaptation of Large Language Models (LoRA)](https://arxiv.org/abs/2106.09685) | [HF-Training](https://huggingface.co/docs/diffusers/training/lora) |
@@ -109,6 +110,7 @@ Thanks for being a part of this amazing community and keep crushing it!
 | 2022 | 05 | [Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding (Imagen)](https://arxiv.org/abs/2205.11487) | [Project Page](https://imagen.research.google/) |
 | 2022 | 06 | [Elucidating the Design Space of Diffusion-Based Generative Models (EulerDiscrete)](https://arxiv.org/abs/2206.00364) | [HF-Schedulers](https://huggingface.co/docs/diffusers/main/en/api/schedulers/euler) |
 | 2022 | 06 | [DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Steps](https://arxiv.org/abs/2206.00927) ||
+| 2022 | 08 | [Understanding Diffusion Models: A Unified Perspective](https://arxiv.org/abs/2208.11970) ||
 | 2022 | 11 | [Null-text Inversion for Editing Real Images using Guided Diffusion Models](https://arxiv.org/abs/2211.09794) | [YouTube](https://www.youtube.com/watch?v=qzTlzrMWU2M) |
 | 2022 | 11 | [DPM-Solver++: Fast Solver for Guided Sampling of Diffusion Probabilistic Models](https://arxiv.org/abs/2211.01095) | [HF-Scheduler](https://huggingface.co/docs/diffusers/main/en/api/schedulers/multistep_dpm_solver) |
 | 2022 | 12 | [Scalable Diffusion Models with Transformers (DiT)](https://arxiv.org/abs/2212.09748) | [Project Page](https://www.wpeebles.com/DiT) |
