@@ -95,6 +95,7 @@ Thanks for being a part of this amazing community and keep crushing it!
 | 2017 | 11 | [Neural Discrete Representation Learning (VQVAE)](https://arxiv.org/abs/1711.00937) ||
 | 2017 | 01 | [Improving the PixelCNN with Discretized Logistic Mixture Likelihood and Other Modifications (PixelCNN++)](https://arxiv.org/abs/1701.05517) | [GitHub](https://github.com/openai/pixel-cnn) |
 | 2019 | 06 | [Generating Diverse High-Fidelity Images with VQ-VAE-2](https://arxiv.org/abs/1906.00446) ||
+| 2019 | 07 | [Generative Modeling by Estimating Gradients of the Data Distribution](https://arxiv.org/abs/1907.05600) || 
 | 2020 | 06 | [Denoising Diffusion Probabilistic Models (DDPM)](https://arxiv.org/abs/2006.11239) | [GitHub](https://hojonathanho.github.io/diffusion/) |
 | 2020 | 10 | [Denoising Diffusion Implicit Models (DDIM)](https://arxiv.org/abs/2010.02502) | [GitHub](https://github.com/ermongroup/ddim) |
 | 2020 | 10 | [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (ViT)](https://arxiv.org/abs/2010.11929) | [On-HF](https://huggingface.co/docs/transformers/model_doc/vit) |
