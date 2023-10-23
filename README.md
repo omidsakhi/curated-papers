@@ -102,6 +102,7 @@ Thanks for being a part of this amazing community and keep crushing it!
 | 2020 | 11 | [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456) | [GitHub](https://github.com/yang-song/score_sde) |
 | 2021 | 01 | [How to Train Your Energy-Based Models](https://arxiv.org/abs/2101.03288) ||
 | 2021 | 02 | [Learning Transferable Visual Models From Natural Language Supervision (CLIP)](https://arxiv.org/abs/2103.00020) ||
+| 2021 | 02 | [Improved Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2102.09672) ||
 | 2021 | 05 | [Diffusion Models Beat GANs on Image Synthesis (Guided Diffusion)](https://arxiv.org/abs/2105.05233) | [GitHub](https://github.com/openai/guided-diffusion) |
 | 2021 | 06 | [Low-Rank Adaptation of Large Language Models (LoRA)](https://arxiv.org/abs/2106.09685) | [HF-Training](https://huggingface.co/docs/diffusers/training/lora) |
 | 2021 | 12 | [High-Resolution Image Synthesis with Latent Diffusion Models (Stable Diffusion)](https://arxiv.org/abs/2112.10752) | [GitHub](https://github.com/CompVis/latent-diffusion) |
