@@ -87,6 +87,7 @@ Thanks for being a part of this amazing community and keep crushing it!
 ### Diffusion Models
 | Year | Month | Title | Resources |
 | ------------- |-------------|-------------|-------------|
+| 2008 |    | [Extracting and Composing Robust Features with Denoising Autoencoders](https://www.cs.toronto.edu/~larocheh/publications/icml-2008-denoising-autoencoders.pdf) || 
 | 2010 | 12 | [A Connection Between Score Matching and Denoising Autoencoders](https://www.iro.umontreal.ca/~vincentp/Publications/smdae_techreport.pdf) ||
 | 2013 | 12 | [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114) ||
 | 2015 | 03 | [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/abs/1503.03585) ||
