@@ -83,6 +83,7 @@ Thanks for being a part of this amazing community and keep crushing it!
 | 2021 | 06 | [Alias-Free Generative Adversarial Networks (StyleGAN3)](https://arxiv.org/abs/2106.12423) |
 | 2023 | 01 | [StyleGAN-T: Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis](https://arxiv.org/abs/2301.09515) |
 | 2023 | 03 | [GigaGAN: Scaling up GANs for Text-to-Image Synthesis](https://arxiv.org/abs/2303.05511) |
+| 2023 | 03 | [Consistency Models](https://arxiv.org/abs/2303.01469) |
 
 ### Diffusion Models
 | Year | Month | Title | Resources |
@@ -123,6 +124,7 @@ Thanks for being a part of this amazing community and keep crushing it!
 | 2023 | 03 | [MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation](https://arxiv.org/abs/2302.08113) | [HF-Pipeline](https://huggingface.co/docs/diffusers/api/pipelines/panorama) |
 | 2023 | 04 | [Generative Novel View Synthesis with 3D-Aware Diffusion Models](https://arxiv.org/abs/2304.02602) | [Project Page](https://nvlabs.github.io/genvs/) |
 | 2023 | 07 | [Improving Latent Diffusion Models for High-Resolution Image Synthesis (SDXL)](https://arxiv.org/abs/2307.01952) | [HF-Model](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) |
+| 2023 | 11 | [LCM-LoRA: A Universal Stable-Diffusion Acceleration Module](https://arxiv.org/abs/2311.05556) ||
 
 ## Others
 
